@@ -9,7 +9,7 @@
 - Tobig's 15th
 
 #### 3. Skills and Experiences
-- Information Retrieval for Search and Recommendation Modeling
+- Search and Recommendation Modeling for Information Retrieval
 - Instruction Tuning with Large Language Model
 - Speed Up Training for Large Language Model
 - Large Language Model Serving
