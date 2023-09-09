@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 I'm SeongBeomLEE
 
-<!--
-**SeongBeomLEE/SeongBeomLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 1. Career
+- (2022.08 ~ present) [Konan Technology](https://www.konantech.com/)
 
-Here are some ideas to get you started:
+#### 2. Activities
+- Opensource Contribution - [transformers](https://github.com/huggingface/transformers/commits?author=SeongBeomLEE), [tokenizers](https://github.com/huggingface/tokenizers/commits?author=SeongBeomLEE)
+- Naver BoostCamp AI Tech RecSys 3rd
+- Tobig's 15th
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 3. Skills and Experiences
+- Search and Recommendation Modeling
+- Instruction Tuning with Large Language Model
+- Speed Up Training for Large Language Model
+- Large Language Model Serving
+
+#### 4. Contacts
+- 2712qwer@gmail.com
