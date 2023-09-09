@@ -1,7 +1,7 @@
 ### 👋 I'm SeongBeomLEE
 
 #### 1. Career
-- (2022.08 ~ present) [Konan Technology](https://www.konantech.com/)
+- (2022.08 ~ present) Machine Learning Engineer in [Konan Technology](https://www.konantech.com/)
 
 #### 2. Activities
 - Opensource Contribution - [transformers](https://github.com/huggingface/transformers/commits?author=SeongBeomLEE), [tokenizers](https://github.com/huggingface/tokenizers/commits?author=SeongBeomLEE)
