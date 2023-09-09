@@ -4,7 +4,7 @@
 - (2022.08 ~ present) Machine Learning Engineer in [Konan Technology](https://www.konantech.com/)
 
 #### 2. Activities
-- Opensource Contribution - [transformers](https://github.com/huggingface/transformers/commits?author=SeongBeomLEE), [tokenizers](https://github.com/huggingface/tokenizers/commits?author=SeongBeomLEE)
+- Open Source Contribution - [Transformers](https://github.com/huggingface/transformers/commits?author=SeongBeomLEE), [Tokenizers](https://github.com/huggingface/tokenizers/commits?author=SeongBeomLEE)
 - Naver BoostCamp AI Tech RecSys 3rd
 - Tobig's 15th
 
