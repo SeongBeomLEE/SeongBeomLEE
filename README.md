@@ -15,7 +15,8 @@
   - [Konan LLM 공문서 초안 작성, 질의·응답(RAG) 서비스 시연 동영상](https://www.youtube.com/watch?v=jvMWwDuhh2U)
 - Speed Up Training for Large Language Model
 - Large Language Model Serving
-- Creating a Data Annotation Tool
+- Development of Data Annotation Tool for Instruction Tuning
+- Development of Large Language Model Management API
 
 #### 4. Contacts
 - 2712qwer@gmail.com
