@@ -5,6 +5,7 @@
 
 #### 2. Activities
 - Open Source Contribution - [Transformers](https://github.com/huggingface/transformers/commits?author=SeongBeomLEE), [Tokenizers](https://github.com/huggingface/tokenizers/commits?author=SeongBeomLEE)
+- (2023-03 ~ present) Pseudo Lab 8th
 - (2022-01 ~ 2022-06) Naver BoostCamp AI Tech RecSys 3rd
 - (2021-01 ~ 2022-01) Tobig's 15th
 
