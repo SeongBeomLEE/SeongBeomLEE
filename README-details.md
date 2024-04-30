@@ -8,6 +8,7 @@
 #### 2. Activities
 - Open Source Contribution - [Transformers](https://github.com/huggingface/transformers/commits?author=SeongBeomLEE), [Tokenizers](https://github.com/huggingface/tokenizers/commits?author=SeongBeomLEE), [Text-Generation-Inference](https://github.com/huggingface/text-generation-inference/commits?author=SeongBeomLEE)
 - (2024-03 ~ present) Pseudo Lab 8th
+  - [CPython-Guide](https://github.com/Pseudo-Lab/CPython-Guide)
 - (2022-01 ~ 2022-06) Naver BoostCamp AI Tech RecSys 3rd
   - [산타 백준 - 개인화 코딩 문제 추천 웹서비스](https://github.com/boostcampaitech3/final-project-level3-recsys-05)
   - [Deep Knowledge Tracing 대회](https://github.com/boostcampaitech3/level2-dkt-level2-recsys-05)
@@ -26,7 +27,7 @@
 - Search and Recommendation Modeling for Information Retrieval
 - Instruction Tuning with Large Language Model
 - Speed Up Training for Large Language Model wtih Megatron-LM
-- Development of LLMOps
+- Development of LLMOps Tool
 - Development of Data Annotation Tool for Instruction Tuning
 
 #### 4. Contacts
