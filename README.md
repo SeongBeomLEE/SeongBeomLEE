@@ -13,7 +13,7 @@
 - Search and Recommendation Modeling for Information Retrieval
 - Instruction Tuning with Large Language Model
 - Speed Up Training for Large Language Model wtih Megatron-LM
-- Development of LLMOps
+- Development of LLMOps Tool
 - Development of Data Annotation Tool for Instruction Tuning
 
 #### 4. Contacts
