@@ -7,7 +7,7 @@
 
 #### 2. Activities
 - Open Source Contribution - [Transformers](https://github.com/huggingface/transformers/commits?author=SeongBeomLEE), [Tokenizers](https://github.com/huggingface/tokenizers/commits?author=SeongBeomLEE), [Text-Generation-Inference](https://github.com/huggingface/text-generation-inference/commits?author=SeongBeomLEE)
-- (2024-03 ~ present) Pseudo Lab 8th
+- (2024-03 ~ 2024-06) Pseudo Lab 8th
   - [CPython-Guide](https://github.com/Pseudo-Lab/CPython-Guide)
 - (2022-01 ~ 2022-06) Naver BoostCamp AI Tech RecSys 3rd
   - [산타 백준 - 개인화 코딩 문제 추천 웹서비스](https://github.com/boostcampaitech3/final-project-level3-recsys-05)
