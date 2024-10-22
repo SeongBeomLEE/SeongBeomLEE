@@ -1,9 +1,10 @@
 ### 👋 I'm SeongBeomLEE
 
 #### 1. Career
-- (2022.08 ~ present) Machine Learning Engineer at [Konan Technology](https://www.konantech.com/)
+- (2022.08 ~ present) Machine Learning Engineer at [Konan Technology ELM Team](https://www.konantech.com/)
   - [[보도자료] 코난테크놀로지, 초거대 AI 도약 행사서 대통령께 코난LLM 선보여](https://blog.naver.com/konan_tech/223211101821)
   - [Konan LLM 공문서 초안 작성, 질의·응답(RAG) 서비스 시연 동영상](https://www.youtube.com/watch?v=jvMWwDuhh2U)
+  - [코난테크놀로지, 국내 첫 대형언어모델 공공 도입…남부발전과 41억대 계약](https://www.konantech.com/pr/press?number=3013&pn=2&stype2=&sfi=subj&sword=)
 
 #### 2. Activities
 - Open Source Contribution - [Transformers](https://github.com/huggingface/transformers/commits?author=SeongBeomLEE), [Tokenizers](https://github.com/huggingface/tokenizers/commits?author=SeongBeomLEE), [Text-Generation-Inference](https://github.com/huggingface/text-generation-inference/commits?author=SeongBeomLEE)
@@ -26,7 +27,7 @@
 #### 3. Skills and Experiences
 - Search and Recommendation Modeling for Information Retrieval
 - Instruction Tuning with Large Language Model
-- Speed Up Training for Large Language Model wtih Megatron-LM
+- Speed Up Training for Large Language Model wtih Megatron-LM and torchtune
 - Development of LLMOps Tool
 - Development of Data Annotation Tool for Instruction Tuning
 
