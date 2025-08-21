@@ -1,7 +1,7 @@
 ### 👋 I'm SeongBeomLEE
 
 #### 1. Career
-- (2022.08 ~ present) Machine Learning Engineer at [Konan Technology ELM Team](https://www.konantech.com/)
+- (2022.08 ~ present) AI Engineer at [Konan Technology ELM Team](https://www.konantech.com/)
 
 #### 2. Activities
 - Open Source Contribution - [Transformers](https://github.com/huggingface/transformers/commits?author=SeongBeomLEE), [Tokenizers](https://github.com/huggingface/tokenizers/commits?author=SeongBeomLEE), [Text-Generation-Inference](https://github.com/huggingface/text-generation-inference/commits?author=SeongBeomLEE)
@@ -15,6 +15,7 @@
 - Speed Up Training for Large Language Model wtih Megatron-LM and torchtune
 - Development of LLMOps Tool
 - Development of Data Annotation Tool for Instruction Tuning
+- Development of Agent System
 
 #### 4. Contacts
 - 2712qwer@gmail.com
